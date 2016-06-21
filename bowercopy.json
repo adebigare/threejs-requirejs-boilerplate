@@ -1,0 +1,13 @@
+{
+    "libs": {
+        "options": {
+            "destPrefix": "content/js/app",
+            "clean": true
+        },
+        "files": {
+            "three.js": "content/js/vendor/three.js",
+            "Tween.js": "content/js/vendor/Tween.js",
+            "require.js": "content/js/vendor/require.js"
+        }
+    }
+}
